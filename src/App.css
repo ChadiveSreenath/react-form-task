@@ -16,7 +16,8 @@ input {
 select {
   height: 44px;
   width: 100%;
-  padding: 0 1rem;
+  padding: 12px 1rem;
+  outline: none;
 }
 button {
   width: 100%;

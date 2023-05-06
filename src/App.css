@@ -1,0 +1,27 @@
+.form form {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  margin: auto;
+  margin-top: 3rem;
+}
+input {
+  height: 44px;
+  width: 100%;
+  outline: none;
+}
+select {
+  height: 44px;
+  width: 100%;
+  padding: 0 1rem;
+}
+button {
+  width: 100%;
+  padding: 1rem;
+  background-color: black;
+  color: white;
+  cursor: pointer;
+}
